@@ -4,6 +4,8 @@ import React,{Component} from 'React';
 class ContestPreview extends Component{
 handleClick = ()=>{
 	console.log(this.props.contestName);
+	this.props.onclick(this.props.id);
+
 };
 render(){
 	return(
