@@ -19,7 +19,7 @@
   "author": "Fazel.Farnia",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.18.1",
+    "axios": "^0.21.1",
     "body-parser": "^1.19.0",
     "ejs": "^2.6.1",
     "express": "^4.17.0",
